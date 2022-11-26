@@ -1,2 +1,2 @@
-# なんか作りたいときってあるよね
+# 新ウェブサイト
 https://fugufx.github.io/WebSite.github.io/
